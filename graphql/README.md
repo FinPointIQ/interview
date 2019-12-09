@@ -1,10 +1,10 @@
 ## Basic GraphQL Service
 
-The following technical session is open-ended, and designed to simulate collaborating on the technical aspects of a hypothetical sprint task, which we would not expect to be completed within our 90 minute block. 
+The following technical session is open-ended, and designed to simulate collaborating on the technical aspects of a hypothetical sprint task. The task itself is large, and meant to diverse set of skills, and to facilitate many different, possible conversations. 
   
 During the first part of the interview, we will discuss the task in general terms. At this point, depending on the experience and knowledge of the candidate, we will target more specific areas for a deeper discussion; for example, we may dive into schema design and discuss specific data scenarios, or maybe container architecture, or else we might skip all of that and work on serializing/deserializing objects to s3. If you show deep knowledge, we might quickly move on to another topic; but at some point, we will write code. For example, we might focus on implementing working code to serialize/deserialize objects into json files, using popular libraries. Or, for more senior candidates, we might stand up a boilerplate web service and quickly copy-and-paste our way to a prototype as an example.
 
-The goal of the interview is to assess our ability to work together on a "representative" task, and to evaluate your particular combination of breadth, depth and capacity against a common framework. 
+The goal of the interview is to assess our ability to work together on a "representative" task, and to provide a common framework with which to evaluate your particular combination of breadth, depth and capacity. 
 
 The hypothetical sprint task is as follows:
   
